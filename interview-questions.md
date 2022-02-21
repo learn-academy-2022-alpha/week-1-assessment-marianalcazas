@@ -29,7 +29,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-3. What is an index? What is the difference between index and value?
+3. What is an index?What is the difference between index and value?
 
   Your answer: index is used in array to give back a value and it starts to count the elements with the number zero. The first element in an array has an index zero. the difference between index and value is the value has a specific index so we can retrieve a specif value.
 
@@ -66,4 +66,4 @@ Research and define the following terms to the best of your ability.
 
 4. Method:  Are the action that can be done on objects. It is a property that have a function definition. 
 
-5. Classes: Also known as ES6. It is not an object it is a template for javascript objects. 
+5. Classes: Also known as ES6. It is not an object it is a template for javascript objects.

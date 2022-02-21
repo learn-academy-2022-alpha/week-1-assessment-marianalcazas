@@ -48,7 +48,7 @@ const weekendDays = ["saturday", "sunday"]
 console.log(weekendDays.toUpperCase())
 
 // a) Your answer: "SATURDAY", "SUNDAY"
-// b) Verify and explain: I thought it was string methods argument and it would come back all the elements in upper case. This one I got a little confused why it came back as an error. 
+// b) Verify and explain: I thought it was string methods argument and it would come back all the elements in upper case. This one I got a little confused why it came back as an error.
 
 // --------------------5) What will this log? number
 
@@ -57,5 +57,6 @@ console.log(typeof dataTypes.length)
 
 // a) Your answer: "" - string - 
 // b) Verify and explain: I guessed it would be a "" (string) because of the value, but because it has a lenght would come back "number". 
+
 
   
