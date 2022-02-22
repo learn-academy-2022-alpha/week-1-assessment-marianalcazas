@@ -15,42 +15,42 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is git? What is the difference between git and Github?
 
-  Your answer: Git is a software that is based in personal computers. It is local so stays in your machine. In general is not wisely to use it solo since if something happens with the computer everything inside it would be gone. That is where Github get into place. Github is a remote platform where people can acess from anywhere and from any computer. It receives the information from git that is local and keep it there online in the cloud. 
+  Your answer: Git is a software that is located on your personal computers. It is local, so it stays in your machine. In general it is not wise to use it only on your computer, since if something happens with the computer everything inside of it would be gone. This is where Github comes into play. Github is a remote platform that people can access from anywhere and from any computer. It receives the information from git that is local and keeps it  online in the cloud. 
  
   Researched answer: 
- Git is a free system that are used for people who works with programming. it is wildly used for sharing and working on code. Git guide and preserve track of source code history. Github is cloud support service that allows people to navegate into git repositories. 
+ Git is a free system that is used for people who work with programming. It is widely used for sharing and working on code. Git guides and keeps track of source code history. Github is a cloud support service that allows people to navigate into git repositories. 
 
 
 2. Which JavaScript operators will return a Boolean value?
 
-  Your answer:The Javascript operator that will return a boolean value is OR || operator when returns true or false. The value can not be different it needs to be exatcly the same to be considered a boolean value.
+  Your answer: The Javascript operator that will return a boolean value is "OR" || logical operator when it returns true or false. The value cannot be different, as it needs to be exactly the same to be considered a boolean value.
 
-  Researched answer: in my search about boolean value I found on Mozzila website that "The logical OR ( || ) operator (logical disjunction) for a set of operands is true if and only if one or more of its operands is true. It is typically used with boolean (logical) values. When it is, it returns a Boolean value." Meaning that the value can not be different to be considered a boolean.
-
-
-
-3. What is an index?What is the difference between index and value?
-
-  Your answer: index is used in array to give back a value and it starts to count the elements with the number zero. The first element in an array has an index zero. the difference between index and value is the value has a specific index so we can retrieve a specif value.
+  Researched answer: In my search regarding boolean values, I found on the Mozilla website that "The logical OR ( || ) operator (logical disjunction) for a set of operands is true if and only if one or more of its operands is true. It is typically used with boolean (logical) values. When it is, it returns a Boolean value." Meaning that the value can not be different to be considered a boolean.
 
 
-  Researched answer: looking at my class syllabus I found that index is located in an array. Indexes are numbers that can be compared to an address for each element found in the array. The elements are numbered starting with 0 increasing one number a time. The difference between index and value are the content. Each element in an array is called the value, we can retrieve specific value by calling on it's index. 
+
+3. What is an index? What is the difference between index and value?
+
+  Your answer: An index is used in array to give back a value and it starts to count the elements with the number zero. The first element in an array has an index zero. The difference between an index and a value is that the value has a specific index so we can retrieve a specific value.
+
+
+  Researched answer: Looking at my class syllabus, I found that index is located in an array. Indexes are numbers that can be compared to an address for each element found in the array. The elements are numbered starting with 0 and increasing one number a time. The difference between index and value is the content. Each element in an array is called the value and we can retrieve specific value by calling on its index. 
 
 
 
 4. What is iteration?
 
-  Your answer: iteration is a control struction also knows as loop, it allows the programmers to generate repetitive tasks that will have to perform over and over again until achieve a result. 
+  Your answer: Iteration is a control instruction also known as loop. It allows the programmer to generate repetitive tasks that will have to performed over and over again until achieving a result. 
 
-  Researched answer: Iteration is the action of doing a singular operation a particular number of times or until a condition is found. A commom form of itineration is knowing as "for loop". A "for loop" characterize a variable and increment or decrement the variable on each iteration. 
+  Researched answer: Iteration is the action of doing a singular operation a particular number of times or until a condition is found. A commom form of iteration is known as "for loop". A "for loop" characterizes a variable and increment or decrement the variable on each iteration. 
 
 
 
 5. Give a brief description of proper pair programming techniques. What are the roles of each person?
 
-  Your answer: When programming is important to have two people working together one as the driver and the other as navigator. The driver will have the hands on the computer typing and writing the code while the navigator will observe to see if there is type errors or if the line of the code is right. It is important to inytercalate and switch parts recurrently. 
+  Your answer: When programming it is important to have two people working together; one as the driver and the other as the navigator. The driver will have their hands on the computer, typing and writing the code, while the navigator will observe to see if there is typing errors or to ensure the line of the code is right. It is important to take turns and switch parts recurrently. 
 
-  Researched answer: Pair programming is a crucial procedure for promote the best quality code. It reduces the risk of mistakes while bring awareness for a more organize code. When pair programming two developers work together in a rhythm one is going to be the driver writing the code while the other is going to be the navigator reviewing the line of code as it is typed in. 
+  Researched answer: Pair programming is a crucial procedure for promoting the best quality code. It reduces the risk of mistakes, while bringing awareness for a more organized code. While pair programming, two developers work together in a rhythm where one is going to be the driver writing the code while the other is going to be the navigator reviewing the lines of code as it is typed. 
 
 
 

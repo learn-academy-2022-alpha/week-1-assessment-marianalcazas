@@ -56,8 +56,14 @@ const anyGivenNumber = (num)=>{
 
 
 //pseudo code
-//create a function invocation
-//
+//create a function anyGivenNumber
+//Determine if it is below, at, or above boiling point
+//this problem is a variable declaration and name
+//It has parameters
+//return 
+//conditional statements
+//console.log 3 times
+//output expect "42 is below boiling point", "350 is above boiling point", "212 is at boiling point".
 
 
 // --------------------2) Create the code that will combine the two arrays and return the length using the variables provided below. Expected output: 10
@@ -103,9 +109,9 @@ if(myArray[i] % 2 !==0){
 }
 //pseudo code
 //create a statement in the array that will tell if the number is even or odd
-//it shoulb be a for loop with conditional
+//it shoulb be a "for loop" with conditional
 //it should have index and should be counting one number at time
-//the output "odd" "even" "odd" "even" "odd" "even"
+//the output will be "odd" "even" "odd" "even" "odd" "even"
 
 
 // --------------------5) Create a function that takes in a set of any two numbers and subtracts the smaller number from the larger number using the sets of test variables provided below. Expected output: 42, 3
@@ -118,4 +124,21 @@ const number2 = 100
 const number3 = 27
 const number4 = 24
 
-//conditional statement
+const anyTwoNumbers = (num1, num2) => {
+    if (num1 < num2){
+      return (num2 - num1)
+    } else {
+      return (num1 - num2)
+    }
+}
+    console.log(anyTwoNumbers(number1, number2))
+console.log(anyTwoNumbers(number3, number4))
+
+
+//pseudo code
+//create a function anyTwoNumbers
+//subtracts the smaller number from the larger number
+//it will have a conditional statement 
+//console.log function twice with the number1, number2 and then number3, number4
+
+    
